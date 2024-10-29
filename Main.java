@@ -6,5 +6,6 @@ class Main{
     {
         System.out.println("Hello Krishna");
         System.out.println("Date is " + new Date());
+        System.out.println("Added new line");
     }
 }
